@@ -5,3 +5,5 @@ change change change
 
 
 The third change
+
+Git tracks changes
