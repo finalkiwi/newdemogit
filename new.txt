@@ -6,4 +6,4 @@ change change change
 
 The third change
 
-Git tracks changes of files
+Git tracks changes of files to checkout
